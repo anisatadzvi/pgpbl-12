@@ -1,7 +1,13 @@
-# react-native-content-petalokasiobjek
+# NAMA APLIKASI
 
-Peta lokasi objek form input data dan web map untuk konten React Native dalam rangka praktikum Pemrograman Geospasial Perangkat Bergerak Lanjut (PGPBL), Sekolah Vokasi UGM.
+WebGIS Persebaran Tempat Fotocopy dan Jilid di Sekitar Universitas Gadjah Mada.
 
-## Stack
+## Deskripsi Produk
 1. HTML
 2. Spreadsheet Apps Script
+
+## Komponen Pembangun Produk
+
+## Sumber Data
+
+## Tampilan Aplikasi
